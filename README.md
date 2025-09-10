@@ -1,3 +1,38 @@
+
+---
+
+# Hola, bienvenido a mi GitHub, forastero
+
+## Datos Básicos
+
+* Estudiante de cuarto año en la FIC de la UDC.
+* Nací en 2004 y soy de Pontevedra.
+* Llevo cuatro años viviendo en A Coruña.
+
+## Experiencia Laboral
+
+* Panadero y repartidor en panadería artesana.
+* Cajero, reponedor y mozo de almacén en Gadisa.
+* Jefe de almacén en un supermercado local, gestionando pedidos, proveedores y ventas.
+* Operario de limpieza industrial en Starnaliza (turno de noche en Profand), con protocolos de seguridad y maquinaria pesada.
+* DJ en eventos y locales, pinchando principalmente música electrónica.
+
+## Mis Pasiones y Proyectos
+
+* Tengo un Clio 2 Fase 2 1.2 16v. Me gusta hacerle yo mismo el mantenimiento y meterle modificaciones.
+* Me gustan las bicis en casi todas sus modalidades: BMX, fixed, dirt, downhill, enduro.
+* La fotografía me tira mucho. Uso una Sony Alpha 6000 para lo “serio” (Sony Alpha gang) y una Samsung DV300F para llevar encima. Sobre todo me gusta capturar los momentos cotidianos con mis amigos.
+* Me mola la compraventa de segunda mano. Siempre estoy buscando cosas interesantes para darles uso.
+* En casa tengo una gata, Ahsoka Tana. Básicamente duerme al sol y se camufla como si fuese un objeto más.
+
+## Proyectos en mi Perfil
+
+En mi perfil subo proyectos de la carrera y otros que hago por mi cuenta, sobre todo cosas de fotografía y organización de archivos.
+
+## Conocimientos académicos
+
+---
+
 # 1º Curso (2024/25)
 
 > Cursos obligatorios – 6 ECTS cada uno.
