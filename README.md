@@ -1,142 +1,679 @@
-# Hola, bienvenido a mi GitHub, forastero
+# 1º Curso (2024/25)
 
-## Datos Básicos
-- Estudiante de tercer año en la FIC de la UDC.
-- Nací en 2004 y soy de Samieira, Poio (Pontevedra).
-- Llevo tres años en A Coruña, ¿castigo o premio?
+> Cursos obligatorios – 6 ECTS cada uno.
 
-## Experiencia Laboral
-- En verano trabajé de panadero y jefe de almacén; la autosuficiencia, la gestión y el control en entornos de alta presión y exigencia es lo mío.
-- Los fines de semana no me libero de las maquinitas, y también soy un intento de DJ.
+---
 
-## Resumen Académico
+## 202303 — Programación I (1º cuatr.)
+**De qué va**  
+Introducción a la programación estructurada con **C**: algoritmos, tipos básicos, estructuras de control, funciones, recursividad y estructuras simples de datos.
 
-A lo largo de mi carrera en Ingeniería Informática en la FIC de la UDC, he adquirido una sólida base teórica y práctica. A continuación, presento un resumen de las asignaturas cursadas, organizadas por curso, donde se destacan los aprendizajes, herramientas y aspectos clave de cada materia.
+**Lo que trabajé/aprendí**  
+- Sintaxis de C y fundamentos de programación.  
+- Diseño, implementación y prueba de programas pequeños.  
+- Control de flujo: condicionales y bucles.  
+- Funciones, parámetros por valor/referencia y recursividad.  
+- Arrays, registros, cadenas y E/S básica.  
+- Estilo de programación y depuración.  
 
-### Primer Curso
+**Temario clave**  
+Algoritmos · Lenguajes · Estructura de un programa · Control de flujo · Funciones y recursividad · Arrays y registros · Cadenas · Ficheros.
 
-- **Administración y Gestión de Organizaciones (614G01009, 1º cuatrimestre, Formación básica, 6 créditos):**
-  - **Aprendizajes:** Fundamentos de gestión organizacional, análisis económico, contabilidad básica y elaboración de planes de negocio.
-  - **Aspectos clave:** Comprensión del entorno empresarial y la estructura organizativa.
+**Referencias base**  
+Kernighan & Ritchie · King · Joyanes · García-Bermejo.
 
-- **Cálculo (614G01003, 1º cuatrimestre, Formación básica, 6 créditos):**
-  - **Aprendizajes:** Límites, derivadas, integrales, métodos numéricos y aplicaciones en optimización.
-  - **Aspectos clave:** Desarrollo del pensamiento analítico y resolución de problemas matemáticos.
+---
 
-- **Informática Básica (614G01002, 1º cuatrimestre, Formación básica, 6 créditos):**
-  - **Aprendizajes:** Principios de la arquitectura computacional, introducción a sistemas operativos, nociones elementales de bases de datos y redes.
-  - **Lenguajes y herramientas:** Primer acercamiento a SQL y bases de datos.
-  - **Aspectos clave:** Fundamentos de la lógica computacional y la interacción entre hardware y software.
+## 202305 — Cálculo (1º cuatr.)
+**De qué va**  
+Análisis de funciones de una variable real: límites, continuidad, derivadas, integrales, ecuaciones diferenciales y uso de **Python** para cálculo simbólico.
 
-- **Matemática Discreta (614G01004, 1º cuatrimestre, Formación básica, 6 créditos):**
-  - **Aprendizajes:** Lógica, teoría de conjuntos, relaciones, grafos, combinatoria y autómatas.
-  - **Aspectos clave:** Bases teóricas esenciales para el análisis y diseño de algoritmos.
+**Lo que trabajé/aprendí**  
+- Análisis de funciones: límites, derivadas, optimización, convexidad.  
+- Integración definida/indefinida, impropia y numérica.  
+- Teorema fundamental del cálculo y aplicaciones geométricas.  
+- Ecuaciones diferenciales elementales.  
+- SymPy/NumPy/Matplotlib para cálculo y visualización.  
 
-- **Programación I (614G01001, 1º cuatrimestre, Formación básica, 6 créditos):**
-  - **Aprendizajes:** Introducción a algoritmos, estructuras de control, tipos de datos y programación estructurada.
-  - **Lenguajes y herramientas:** Primer acercamiento a C.
-  - **Aspectos clave:** Desarrollo del pensamiento computacional y la capacidad para resolver problemas mediante código.
+**Temario clave**  
+Funciones reales · Derivadas · Integración · Ecuaciones diferenciales · Métodos numéricos básicos · Python aplicado.
 
-- **Álgebra (614G01010, 2º cuatrimestre, Formación básica, 6 créditos):**
-  - **Aprendizajes:** Teoría de matrices, sistemas de ecuaciones, espacios vectoriales y fundamentos aplicados a la criptografía.
-  - **Aspectos clave:** Modelación matemática para la resolución de problemas complejos.
+**Referencias base**  
+Strang & Herman (OpenStax) · Kong/Siauw/Bayen (*Python Programming and Numerical Methods*) · Hervella (*Existelimite*).
 
-- **Estadística (614G01008, 2º cuatrimestre, Formación básica, 6 créditos):**
-  - **Aprendizajes:** Conceptos de probabilidad, variables aleatorias, inferencia estadística y regresión.
-  - **Lenguajes y herramientas:** Uso en profundidad de R y sus suites.
-  - **Aspectos clave:** Herramientas para el análisis de datos y la toma de decisiones fundamentadas.
+---
+## 202302 — Matemática Discreta (1º cuatr.)
+**De qué va**  
+Fundamentos de matemáticas discretas para la informática: lógica, conjuntos, relaciones, grafos y combinatoria.
 
-- **Fundamentos de los Computadores (614G01007, 2º cuatrimestre, Formación básica, 6 créditos):**
-  - **Aprendizajes:** Arquitectura de computadores, sistemas digitales, circuitos lógicos y componentes de hardware.
-  - **Lenguajes y herramientas:** Primer acercamiento a código Ensamblador.
-  - **Aspectos clave:** Comprensión de la estructura interna y el funcionamiento básico de un computador.
+**Lo que trabajé/aprendí**  
+- Lógica proposicional y de predicados.  
+- Conjuntos, relaciones y funciones.  
+- Inducción matemática.  
+- Principios de conteo y combinatoria.  
+- Teoría básica de grafos: caminos, ciclos, árboles.  
+- Aplicaciones en algoritmia y estructuras de datos.  
 
-- **Programación II (614G01006, 2º cuatrimestre, Formación básica, 6 créditos):**
-  - **Aprendizajes:** Programación orientada a objetos, gestión dinámica de memoria, Tipos Abstractos de Datos (TAD) y estructuras complejas (listas, pilas, colas, árboles y grafos).
-  - **Lenguajes y herramientas:** Profundización en C, memoria, punteros, structs, clases y manejo de proyectos grandes.
-  - **Aspectos clave:** Abstracción y modularidad en la resolución de problemas complejos.
+**Temario clave**  
+Lógica · Conjuntos/Relaciones · Inducción · Combinatoria · Grafos.
 
-- **Tecnología Electrónica (614G01005, 2º cuatrimestre, Formación básica, 6 créditos):**
-  - **Aprendizajes:** Fundamentos de electricidad, circuitos, semiconductores, diodos, transistores y circuitos lógicos.
-  - **Lenguajes y herramientas:** Uso de placas fisicas con herramientas como polimetros, generadores de señal y otros modulos, También LTspice.
-  - **Aspectos clave:** Integración de conocimientos de electrónica aplicados a sistemas informáticos.
+**Referencias base**  
+Rosen · Grimaldi · Tucker.
 
-### Segundo Curso
+---
 
-- **Algoritmos (614G01011, 1º cuatrimestre, Obligatoria, 6 créditos):**
-  - **Aprendizajes:** Análisis de complejidad, notaciones asintóticas, diseño y optimización de algoritmos, y resolución de recurrencias.
-  - **Lenguajes y herramientas:** Mayor profundización en C, centrandose en codigo extremadamente eficiente, sólido y adecuado.
-  - **Aspectos clave:** Eficiencia en la solución de problemas computacionales.
+## 202311 — Administración y Gestión de Organizaciones (1º cuatr.)
+**De qué va**  
+Introducción a la gestión empresarial y organizativa: estructura, funciones, dirección y toma de decisiones.
 
-- **Diseño de Software (614G01015, 1º cuatrimestre, Obligatoria, 6 créditos):**
-  - **Aprendizajes:** Principios de diseño orientado a objetos, uso de UML, patrones de diseño y metodologías SOLID.
-  - **Lenguajes y herramientas:** Prácticas en Java, trabajo en equipo y uso de repositorios de código.
-  - **Aspectos clave:** Creación de software modular, mantenible y escalable.
+**Lo que trabajé/aprendí**  
+- Teorías de la organización y modelos de gestión.  
+- Estructura y procesos empresariales.  
+- Dirección estratégica y operativa.  
+- Recursos humanos y liderazgo.  
+- Herramientas de gestión básica.  
 
-- **Estructura de Computadores (614G01012, 1º cuatrimestre, Obligatoria, 6 créditos):**
-  - **Aprendizajes:** Arquitectura de procesadores, evaluación de rendimiento, jerarquía de memoria, cachés y buses.
-  - **Lenguajes y herramientas:** Profundización avanzada en código ensamblador.
-  - **Aspectos clave:** Optimización del hardware y comprensión profunda del funcionamiento interno de los sistemas.
+**Temario clave**  
+Organización empresarial · Dirección · Estrategia · RRHH · Toma de decisiones.
 
-- **Paradigmas de Programación (614G01014, 1º cuatrimestre, Obligatoria, 6 créditos):**
-  - **Aprendizajes:** Comparación entre paradigmas de programación (declarativa, imperativa y orientada a objetos).
-  - **Lenguajes y herramientas:** Introducción a OCaml para explorar la programación funcional, recursividad y currying.
-  - **Aspectos clave:** Diversificación en estrategias de resolución de problemas mediante distintos enfoques de programación.
+**Referencias base**  
+Koontz & Weihrich · Robbins · Mintzberg.
 
-- **Sistemas Operativos (614G01016, 1º cuatrimestre, Obligatoria, 6 créditos):**
-  - **Aprendizajes:** Gestión y planificación de procesos, administración de memoria (incluida la memoria virtual), sistemas de archivos y mecanismos de E/S en entornos UNIX.
-  - **Lenguajes y herramientas:** Dominio absoluto de C, a nivel de sistema operativo, gestión manual de memoria, procesos, nivel muy exigente, sin apoyo de un IDE y usando llamadas directas del sistema operativo.
-  - **Aspectos clave:** Fundamentos para la administración de recursos y la multitarea en sistemas informáticos.
+---
 
-- **Bases de Datos (614G01013, 2º cuatrimestre, Obligatoria, 6 créditos):**
-  - **Aprendizajes:** Diseño conceptual y lógico de bases de datos, consultas avanzadas en SQL, normalización y técnicas de transacción y concurrencia.
-  - **Lenguajes y herramientas:** Profundización en SQL y diseño de bases de datos.
-  - **Aspectos clave:** Modelado y gestión eficiente de la información.
+## 202301 — Informática Básica (1º cuatr.)
+**De qué va**  
+Fundamentos de la informática: hardware, software, sistemas operativos, ofimática, redes básicas y programación introductoria con **Python**.
 
-- **Concurrencia y Paralelismo (614G01018, 2º cuatrimestre, Obligatoria, 6 créditos):**
-  - **Aprendizajes:** Programación concurrente, manejo de procesos e hilos, sincronización y técnicas para paralelización.
-  - **Aspectos clave:** Optimización del rendimiento en sistemas multiprocesador.
+**Lo que trabajé/aprendí**  
+- Historia y conceptos de la informática.  
+- Componentes de hardware y software.  
+- Sistemas operativos: procesos, memoria, archivos.  
+- Herramientas de productividad y TIC.  
+- Fundamentos de programación con Python.  
+- Trabajo con hojas de cálculo y bases de datos sencillas.  
 
-- **Proceso de Software (614G01019, 2º cuatrimestre, Obligatoria, 6 créditos):**
-  - **Aprendizajes:** Gestión integral del ciclo de vida del software, metodologías ágiles y tradicionales, planificación, seguimiento y aseguramiento de la calidad.
-  - **Aspectos clave:** Integración de todas las fases del desarrollo de software para lograr productos fiables.
+**Temario clave**  
+Hardware/software · SO básicos · Redes intro · Python básico · Herramientas TIC.
 
-- **Redes (614G01017, 2º cuatrimestre, Obligatoria, 6 créditos):**
-  - **Aprendizajes:** Fundamentos de redes, protocolos TCP/IP, modelos de comunicación, enrutamiento y configuración de dispositivos de red.
-  - **Aspectos clave:** Comprensión de la conectividad y seguridad en entornos distribuidos.
+**Referencias base**  
+Patterson & Hennessy · Brookshear · Downey (*Think Python*).
 
-- **Sistemas Inteligentes (614G01020, 2º cuatrimestre, Obligatoria, 6 créditos):**
-  - **Aprendizajes:** Introducción a la inteligencia artificial, métodos de búsqueda, representación del conocimiento, sistemas de producción y modelos conexionistas.
-  - **Aspectos clave:** Aplicación de técnicas de IA para la resolución de problemas complejos.
+---
 
-### Tercer Curso
+## 202312 — Fundamentos de los Computadores (2º cuatr.)
+**De qué va**  
+Bases de la arquitectura de computadores: representación de la información, aritmética binaria, organización básica de un procesador y ensamblador.
 
-- **Interfaces Persona-Máquina (614G01022, 1º cuatrimestre, Obligatoria, 6 créditos):**
-  - **Aprendizajes:** Diseño y evaluación de interfaces, usabilidad, ergonomía y experiencia de usuario.
-  - **Aspectos clave:** Desarrollo de aplicaciones centradas en el usuario, accesibles e intuitivas.
+**Lo que trabajé/aprendí**  
+- Sistemas de numeración y representación de enteros y reales.  
+- Operaciones aritmético-lógicas en binario.  
+- Circuitos combinacionales y secuenciales básicos.  
+- Estructura de un procesador elemental.  
+- Lenguaje ensamblador sencillo y traducción de instrucciones.  
+- Introducción a la jerarquía de memoria.  
 
-- **Internet y Sistemas Distribuidos (614G01023, 1º cuatrimestre, Obligatoria, 6 créditos):**
-  - **Aprendizajes:** Arquitecturas distribuidas, comunicación en red, protocolos de Internet y servicios web.
-  - **Aspectos clave:** Diseño y gestión de sistemas escalables y conectados.
+**Temario clave**  
+Representación numérica · Aritmética binaria · Lógica digital básica · CPU elemental · Ensamblador · Memoria.
 
-- **Legislación y Seguridad Informática (614G01024, 1º cuatrimestre, Obligatoria, 6 créditos):**
-  - **Aprendizajes:** Normativas legales en informática, protección de datos, seguridad y ética digital.
-  - **Aspectos clave:** Conocimiento de regulaciones y prácticas de seguridad en el entorno digital.
+**Referencias base**  
+Mano · Patterson & Hennessy · Tanenbaum.
 
-- **Gestión de Infraestructuras (614G01025, 1º cuatrimestre, Obligatoria, 6 créditos):**
-  - **Aprendizajes:** Planificación, diseño y administración de centros de datos, virtualización y gestión de servicios IT basados en ITIL.
-  - **Aspectos clave:** Creación de infraestructuras tecnológicas robustas y eficientes.
+---
 
-- **Gestión de Proyectos (614G01021, 1º cuatrimestre, Obligatoria, 6 créditos):**
-  - **Aprendizajes:** Metodologías de gestión de proyectos, planificación, seguimiento, análisis de riesgos y comunicación efectiva y Simplex.
-  - **Aspectos clave:** Integración de herramientas y técnicas para la consecución exitosa de proyectos tecnológicos.
+## 202307 — Tecnología Electrónica (2º cuatr.)
+**De qué va**  
+Fundamentos físicos y tecnológicos de los componentes electrónicos: circuitos eléctricos, semiconductores, transistores y lógica digital.
 
-## Mis Pasiones y Proyectos
-- Los fines de semana también me voy de tramo con mi Clio 2 Fase 2 1.2 16v: me gusta mimarlo con equipación LED completa, faros pulidos a mano y un tramo artesanal en inox sin catalizador. ¡Pura adrenalina!
-- Me encanta el ciclismo y disfruto de todas las modalidades: BMX, fixed gear, dirt, downhill, enduro. Tengo una sobrefijación por todo lo que tenga ruedas.
-- Soy un friki de la fotografía. ¿Mis mejores aliadas? Mi Sony Alpha 6000 y mi Samsung DV300F, una para fotografía seria y cotidiana, y otra para llevar siempre conmigo y capturar recuerdos de fiestas, quedadas con amigos y momentos fugaces del día a día.
-- Todo lo anterior se relaciona con mi obsesión por Wallapop y la necesidad de encontrar gangas para darles una nueva vida a cosas que otros pagaron de más.
-- En casa, tengo una gata llamada Ahsoka Tana, que se mimetiza como si fuera una maceta y solo se mueve para absorber la luz solar donde la encuentre. Dudo que sea un ser vivo y sospecho que podría haber existido antes del Big Bang.
+**Lo que trabajé/aprendí**  
+- Leyes básicas de electricidad y resolución de circuitos.  
+- Condensadores y transitorios en circuitos RC.  
+- Diodos y aplicaciones.  
+- Transistores MOSFET y circuitos básicos.  
+- Puertas lógicas CMOS y fundamentos digitales.  
+- Instrumentación analógica y digital.  
 
-## Proyectos en mi Perfil
-En mi perfil encontrarás repositorios con proyectos de mi carrera, además de otros relacionados con la gestión y clasificación en masa de archivos fotográficos. ¡Este es mi espacio para compartir proyectos, ideas y todo lo que me mueve! Si te gusta lo que ves o tienes alguna propuesta para colaborar, ¡no lo dudes y háblame!
+**Temario clave**  
+Circuitos eléctricos · Condensadores · Diodos · Transistores · CMOS · Puertas lógicas.
+
+**Referencias base**  
+Hambley · Boylestad & Nashelsky · Nahvi & Edminister.
+
+---
+
+## 202308 — Programación II (2º cuatr.)
+**De qué va**  
+Profundización en programación con **estructuras de datos dinámicas** y **tipos abstractos de datos (TAD)** en C.
+
+**Lo que trabajé/aprendí**  
+- Punteros y gestión dinámica de memoria.  
+- Abstracción y modularidad.  
+- Listas (simples, dobles, ordenadas, multilistas).  
+- Pilas, colas y colas de prioridad.  
+- Árboles binarios y recorridos.  
+- Árboles de búsqueda y AVL.  
+- Buenas prácticas de programación modular.  
+
+**Temario clave**  
+Punteros/memoria · TAD · Listas · Pilas · Colas · Árboles · BST/AVL.
+
+**Referencias base**  
+Joyanes & Zahonero · Karumanchi · Loudon.
+
+---
+
+## 202304 — Álgebra (2º cuatr.)
+**De qué va**  
+Álgebra lineal: matrices, determinantes, sistemas de ecuaciones lineales, espacios vectoriales, aplicaciones lineales, diagonalización.
+
+**Lo que trabajé/aprendí**  
+- Operaciones con matrices y determinantes.  
+- Resolución de sistemas lineales (Gauss, Gauss-Jordan).  
+- Espacios vectoriales, independencia, bases y dimensión.  
+- Aplicaciones lineales y matrices asociadas.  
+- Autovalores, autovectores y diagonalización.  
+- Geometría analítica básica.  
+
+**Temario clave**  
+Matrices · Determinantes · SEL · Espacios vectoriales · Transformaciones lineales · Autovalores/autovectores · Diagonalización.
+
+**Referencias base**  
+Anton · Grossman · Lay · Friedberg/Insel/Spence.
+
+---
+
+## 202310 — Estadística (2º cuatr.)
+**De qué va**  
+Estadística descriptiva, probabilidad, modelos de probabilidad e inferencia estadística. Uso de **R** para análisis y simulación.
+
+**Lo que trabajé/aprendí**  
+- Análisis exploratorio de datos y medidas descriptivas.  
+- Probabilidad: condicionada, Bayes, variables aleatorias.  
+- Distribuciones discretas y continuas, TCL.  
+- Estimación puntual y por intervalos.  
+- Contrastes paramétricos y no paramétricos.  
+- Regresión lineal simple.  
+- Aplicaciones con R y programación estadística básica.  
+
+**Temario clave**  
+Estadística descriptiva · Probabilidad · Variables aleatorias · Inferencia · Regresión · R.
+
+**Referencias base**  
+Devore · Cao Abad · Montgomery & Runger · Eguzkitza (*Laboratorio con R*).
+
+---
+
+# 2º Curso (2025/26)
+
+> Cursos obligatorios – 6 ECTS cada uno.
+
+---
+
+## 202318 — Sistemas Operativos (1º cuatr.)
+**De qué va**  
+Fundamentos de SO: procesos e hilos, planificación, memoria, sistemas de archivos y E/S. Referencia práctica en UNIX.
+
+**Lo que trabajé/aprendí**  
+- Modelado y ciclo de vida de procesos, IPC y sincronización.  
+- Planificadores clásicos y trade-offs.  
+- Paginación/segmentación, memoria virtual y reemplazo de páginas.  
+- Diseño y protección en FS, permisos y layouts.  
+- E/S: DMA, polling y pila de drivers.
+
+**Temario clave**  
+Procesos y estados · IPC · Planificación · Memoria (paginación/segmentación/VM) · Sistemas de archivos (inodos, directorios, protección) · E/S y capas.
+
+**Referencias base**  
+Silberschatz/Galvin/Gagne · OSTEP (Arpaci-Dusseau) · Stallings · Nutt.
+
+---
+
+## 202316 — Paradigmas de Programación (1º cuatr.)
+**De qué va**  
+Resolver problemas aplicando **paradigmas**: funcional, imperativo y OO, con **OCaml** como base.
+
+**Lo que trabajé/aprendí**  
+- Funcional: recursión (normal/terminal), HOFs, tipos paramétricos/recursivos, pattern-matching.  
+- Imperativo: estado, paso por valor/referencia, estructuras de control.  
+- OO: clases, herencia, polimorfismo en OCaml.  
+- Módulos, E/S, compilación separada.
+
+**Temario clave**  
+Fundamentos funcionales · Imperativo vs declarativo · OO · OCaml (módulos, compiladores).
+
+**Referencias base**  
+*OCaml Programming* (Clarkson) · Whitington · Real World OCaml.
+
+---
+
+## 202317 — Deseño Software (1º cuatr.)
+**De qué va**  
+**OO con Java**, **UML**, principios de **buen diseño** (**SOLID**) y **patrones** como puente entre requisitos e implementación.
+
+**Lo que trabajé/aprendí**  
+- OO: clases/objetos, identidad/estado/comportamiento.  
+- Abstracción, encapsulación, modularidad, jerarquía, tipado, ligadura dinámica.  
+- UML (clases, interacción y otros).  
+- SOLID y patrones (intro, adaptables, colecciones, bajo acoplamiento).
+
+**Temario clave**  
+Intro diseño · OO (elementos y características) · UML · Principios · Patrones · Prácticas (Java, TDD básico, repositorios).
+
+**Referencias base**  
+GoF (*Design Patterns*) · Booch/Jacobson/Rumbaugh · Clean Code · Head First DP.
+
+---
+
+## 202313 — Algoritmos (1º cuatr.)
+**De qué va**  
+Análisis de complejidad, diseño algorítmico y experimentación. Estructuras de datos asociadas y problemas clásicos.
+
+**Lo que trabajé/aprendí**  
+- Notación asintótica, modelos y verificación empírica.  
+- Resolución de recurrencias.  
+- EDDs: pilas, colas, listas, árboles, **heaps**, **hash**, disjoint sets, grafos.  
+- Búsqueda/ordenación (inserción, shell, heapsort, mergesort, **quicksort** aleatorio).  
+- Greedy (MST, caminos, mochila), **divide y vencerás**, **DP**, backtracking, juegos/estrategia.  
+- Intro **NP-completitud**.
+
+**Temario clave**  
+Análisis · EDDs · Seq/sets · Voraces · Divide&Vencerás/DP · Grafos y backtracking · Complejidad.
+
+**Referencias base**  
+CLRS · Weiss · Brassard & Bratley · Manber · Sedgewick.
+
+---
+
+## 202314 — Estrutura de Computadores (1º cuatr.)
+**De qué va**  
+Arquitectura/organización: **rendimiento**, **pipeline**, **predicción de saltos**, **jerarquía de memoria** (caché/VM), **E/S y buses**, **RAID**.
+
+**Lo que trabajé/aprendí**  
+- Métricas y benchmarking.  
+- ILP: dependencias, hazards, pipeline MIPS.  
+- Predicción de saltos (fija/estática/dinámica) y delay slots.  
+- Memoria principal y jerarquía: cachés (mapeo, miss, optimización) y **memoria virtual**.  
+- Dispositivos y RAID; buses y diseño básico.
+
+**Temario clave**  
+Prestaciones · ILP/pipeline · Branching · Memoria y cachés · VM · Almacenamiento/RAID · Buses.
+
+**Referencias base**  
+Hennessy & Patterson · Patterson & Hennessy (COD) · Stallings.
+
+---
+
+## 202319 — Redes (2º cuatr.)
+**De qué va**  
+Arquitectura de Internet de arriba abajo: aplicación, transporte, red y enlace, con prácticas (Java + simulación/análisis).
+
+**Lo que trabajé/aprendí**  
+- Modelo por capas y sockets.  
+- HTTP, DNS, otros protocolos de aplicación.  
+- TCP/UDP: handshake, control de flujo/congestión.  
+- IP (v4/v6), subredes, enrutamiento, ICMP.  
+- Enlace y tecnologías L2.
+
+**Temario clave**  
+App · Transporte (TCP/UDP) · Red (IP, routing, IPv6) · Enlace (Ethernet, etc.).
+
+**Referencias base**  
+Kurose & Ross · TCP/IP Illustrated (Stevens/Fall).
+
+---
+
+## 202321 — Proceso Software (2º cuatr.)
+**De qué va**  
+Proceso de desarrollo de calidad: requisitos, análisis, diseño, codificación, pruebas; ciclos de vida y calidad.
+
+**Lo que trabajé/aprendí**  
+- Ciclos de vida y planificación básica.  
+- Ingeniería de requisitos en equipo.  
+- Diseño y verificación/validación.  
+- Calidad del software (Aseguramiento/Control).
+
+**Temario clave**  
+Intro ES · Ciclos de vida · Requisitos→Análisis→Diseño→Codificación+Pruebas · Metodologías · Calidad.
+
+**Referencias base**  
+Sommerville · Pressman · SWEBOK v3.
+
+---
+
+## 202315 — Bases de Datos (2º cuatr.)
+**De qué va**  
+Modelado conceptual/lógico, **SQL** (consultas avanzadas/DDL/vistas), **normalización**, **transacciones**, **concurrencia** y **recuperación**.
+
+**Lo que trabajé/aprendí**  
+- ER→Relacional y normal forms.  
+- SQL: consultas complejas, DDL, vistas.  
+- Índices y almacenamiento.  
+- Transacciones, control de concurrencia y recuperación.
+
+**Temario clave**  
+Relacional+SQL · Diseño (anomalías, NF, ER→Rel) · Archivos/Índices · Concurrencia+Recuperación.
+
+**Referencias base**  
+Elmasri & Navathe · Silberschatz/Korth/Sudarshan · *Learning SQL* (Beaulieu).
+
+---
+
+## 202320 — Concorrencia e Paralelismo (2º cuatr.)
+**De qué va**  
+Programación **concurrente** (procesos/hilos, sincronización) y **paralela** (mensajes, SPMD, master/slave, análisis de rendimiento).
+
+**Lo que trabajé/aprendí**  
+- Sección crítica, exclusión mutua, condiciones, **mutex/semaforos**.  
+- Interbloqueo e inanición.  
+- Productor-consumidor, lectores-escritores, filósofos, “no sharing”.  
+- Paso de mensajes, colectivas, medidas de performance y escalabilidad.  
+- Decomp/assign/opt de tareas y esquemas algorítmicos.
+
+**Temario clave**  
+Concurrente (conceptos, sincronización, patrones) · Paralelo (MPI-like, colectivas, análisis y optimización) · Casos de estudio.
+
+**Referencias base**  
+Pacheco (MPI) · Lea (Java concurrency) · Armstrong (Erlang) · Almeida.
+
+---
+
+## 202322 — Sistemas Intelixentes (2º cuatr.)
+**De qué va**  
+Introducción **IA simbólica** (búsqueda, representación, razonamiento) y **sub-simbólica** (conexionistas, evolutivos, SOM, Hopfield, etc.).
+
+**Lo que trabajé/aprendí**  
+- Espacios de estados y estrategias de exploración.  
+- Representación (declarativa/procedimental) y sistemas de producción.  
+- Razonamiento categórico y bayesiano (intro).  
+- Perceptrón/Adaline, aprendizaje y arquitecturas.  
+- Redes auto-organizativas; algoritmos/genética; vida artificial; nociones cuánticas.
+
+**Temario clave**  
+Intro · Resolución de problemas · Representación · Producción · Razonamiento · Conexionistas (fundamentos/arquitecturas/aprendizaje) · SOM/Hopfield · Evolutivos.
+
+**Referencias base**  
+Russell & Norvig · Haykin · Kohonen · Minsky · Moret Bonillo (UDC) · Gestal (alg. genéticos).
+
+---
+
+# 3º Curso (2025/26)
+
+> Cursos obligatorios – 6 ECTS cada uno.
+
+---
+
+## 202324 — Interfaces Persona-Máquina (1º cuatr.)
+
+**De qué va**
+Diseño y evaluación de **interfaces de usuario** (desktop, móvil y web) con foco en **accesibilidad, usabilidad y eficiencia**, aplicando patrones y buenas prácticas de desarrollo.
+
+**Lo que trabajé/aprendí**
+
+* Principios de IPM, tipos de interfaces y tendencias (web, móvil, no convencionales).
+* Patrones de diseño y su aplicación en UI.
+* **Accesibilidad**: criterios y adaptación a interfaces reales.
+* **Usabilidad y testing**: planificación, ejecución y análisis.
+* Desarrollo práctico de interfaces en **desktop, web y mobile**.
+
+**Temario clave**
+Introducción a IU · GUI de escritorio · Web y Web móvil · Accesibilidad · Usabilidad y pruebas · Otras interfaces y tendencias.
+
+**Referencias base**
+Material docente de la asignatura · Estándares de accesibilidad/usabilidad.
+
+---
+
+## 200190 — Xestión de Infraestruturas (1º cuatr.)
+
+**De qué va**
+Fundamentos de **transmisión de señales** (ancho de banda, modulación, codificación de canal, 802.11) y **diseño/operación de CPDs**: espacio físico, cableado, energía, climatización, acceso, **virtualización** y normativa.
+
+**Lo que trabajé/aprendí**
+
+* Señales, Fourier, **banda base/paso banda** y codificación (Hamming, síndrome, BER).
+* **IEEE 802.11**: PHY (modulación/canal) y MAC (CSMA/CA, QoS).
+* Organización y operación de un **CPD**; **ITIL** básico.
+* **Virtualización**: servidores, almacenamiento y escritorios; **NFV/SDN**, **SAN**.
+* Diseño e implantación de CPDs conforme a **ANSI/TIA-942** y normativa.
+
+**Temario clave**
+Señales y perturbaciones · Fourier y ancho de banda · Codificación de canal · 802.11 (PHY/MAC) · Organización CPD · ITIL · Virtualización (servidor/almacenamiento/escritorio) · Diseño CPD, SAN, NFV/SDN.
+
+**Referencias base**
+Oppenheim/Buck/Schafer · Kurose & Ross · Arregoces & Portolani · Orand (ITIL) · Piattini (Gobierno TI).
+
+---
+
+## 200188 — Internet e Sistemas Distribuídos (1º cuatr.)
+
+**De qué va**
+Desarrollo de **aplicaciones distribuidas multicapa** en Java: acceso a datos (**JDBC**), lógica de negocio y exposición como **servicios** (**REST** y **RPC** con Apache Thrift). Enfoque altamente práctico.
+
+**Lo que trabajé/aprendí**
+
+* Diseño de la **capa modelo** y **pruebas de integración**.
+* Intercambio de datos: **XML** y **JSON**.
+* **Servicios REST** (HTTP, recursos) y **RPC/Thrift** (IDL, stubs, servidores).
+* Introducción a **aplicaciones web** (Servlets/Tomcat).
+* Gestión del proyecto con iteraciones y entregas.
+
+**Temario clave**
+JDBC · Modelo y pruebas · XML/JSON · REST · RPC/Thrift · Introducción a aplicaciones web.
+
+**Referencias base**
+Richardson & Ruby (REST) · Kalin (Java Web Services) · Abernethy (Thrift) · Harold & Means (XML) · Patrones J2EE (Alur et al.).
+
+---
+
+## 202323 — Xestión de Proxectos (1º cuatr.)
+
+**De qué va**
+**Planificación y seguimiento** de proyectos software, **gestión de riesgos**, **programación lineal/entera** aplicada a planificación y **gestión de configuración** (SCM). Comunicación y negociación en equipos.
+
+**Lo que trabajé/aprendí**
+
+* Ciclos de vida y su vínculo con la gestión.
+* **Planificación**: EDT, estimación, calendario, seguimiento y **camino crítico**.
+* **Nivelación/asignación de recursos** y riesgos.
+* **PL/PLE** para optimizar planificación.
+* **SCM**: planes y prácticas.
+* Presentación y defensa pública de proyectos.
+
+**Temario clave**
+Mejora de proceso · Ciclos de vida · Planificación/seguimiento · Comunicación/negociación · Riesgos · PL/PLE · SCM.
+
+**Referencias base**
+Sommerville · Pressman/Maxim · Hillier & Lieberman · Bazaraa/Sherali/Jarvis · IEEE 1042/SCMP · Klastorin · Manual docente (Project 2021).
+
+---
+
+## 200189 — Lexislación e Seguridade Informática (1º cuatr.)
+
+**De qué va**
+Fundamentos de **seguridad de la información** y su **marco legal**: ataques, controles, auditoría, **certificación digital**, **protección de datos**, sociedad de la información y ética profesional.
+
+**Lo que trabajé/aprendí**
+
+* **Ataques** y técnicas: descubrimiento, **port scanning**, fingerprinting, ocultación, sniffing, **(D)DoS**.
+* Seguridad física, **monitorización y filtrado**.
+* **PKI**: certificados y autoridades de certificación.
+* **Auditorías** de seguridad y uso de herramientas.
+* Marco jurídico: servicios de la sociedad de la información, **firma electrónica**, contratación, resolución de conflictos.
+* **Protección de datos**: principios, derechos, obligaciones, medidas, procedimientos.
+* Toma de decisiones éticas y profesionales con “sentido común”.
+
+**Temario clave**
+Categorías de ataques · Seguridad física · Monitorización/filtrado · Certificados/AC · Auditorías · Sociedad de la información · Firma y contratación electrónica · **Protección de datos**.
+
+**Referencias base**
+Material docente LSI (vídeos y guías) · **OWASP Top 10** y **Proactive Controls** · Recursos OWASP-AI · Debian.org · Referencias legales aplicables.
+
+---
+
+# 3º Curso — Mención en Tecnologías de la Información (2025/26)
+
+> Optativas de mención – 6 ECTS cada una (2º cuatr.).
+
+---
+
+## 200214 — Programación Integrativa (2º cuatr.)
+
+**De qué va**
+Integración de **aplicaciones y sistemas** en entornos organizativos: elección de lenguajes (aplicación vs **scripting**), **Python** para análisis de datos, **web** (Django), **APIs REST/OAuth**, **JavaScript** cliente y **virtualización** (Docker).
+
+**Lo que trabajé/aprendí**
+
+* Compilados vs interpretados; lenguajes de propósito general vs scripting.
+* **Shell scripting** y automatización.
+* **Python para datos**: formatos, limpieza, agregación, series temporales y visualización.
+* **Django**: modelado, vistas, plantillas y uso avanzado.
+* **Integración**: JSON, OAuth, consumo/diseño de **APIs REST**.
+* **Front-end** con JavaScript y librerías.
+* **Contenedores** y nociones de virtualización.
+
+**Temario clave**
+Scripting (historia, paradigmas, shell) · Datos con Python · Web con Django · Integración y APIs (REST/OAuth) · JS cliente · Uso de APIs de terceros · Virtualización y Docker.
+
+**Referencias base**
+Lutz (*Programming Python*) · McKinney (*Python for Data Analysis*) · Mele (*Django by Example*) · Flanagan (*JavaScript: The Definitive Guide*) · Robbins & Beebe (*Classic Shell Scripting*).
+
+---
+
+## 200211 — Calidade na Xestión TIC (2º cuatr.)
+
+**De qué va**
+Gestión de **servicios TIC** en la empresa con foco en **ITIL** (estrategia, diseño, transición, operación y **mejora continua**), prácticas de despliegue/mantenimiento y **seguridad/garantía** del servicio.
+
+**Lo que trabajé/aprendí**
+
+* Anatomía de un **servicio** y ciclo de vida **ITIL**.
+* **Estrategia** (portfolio, demanda, finanzas, BRM).
+* **Diseño** (SLA/SLM, catálogo, capacidad, disponibilidad, continuidad, **seguridad**).
+* **Transición** (cambios, configuración/activos, releases, conocimiento).
+* **Operación** (eventos, incidentes, problemas, solicitudes, accesos).
+* **CSI**: evaluación y métricas.
+* Prácticas grupales de despliegue y gestión de servicios.
+
+**Temario clave**
+Introducción a servicios · ITIL: Estrategia · Diseño · Transición · Operación · **Mejora continua**.
+
+**Referencias base**
+ITIL Foundation (TSO) · *ITIL for Dummies* (Farenden) · Orand (*Foundations of ITSM with ITIL 2011*) + libros de cada fase ITIL (TSO).
+
+---
+
+## 200213 — Administración de Redes (2º cuatr.)
+
+**De qué va**
+Diseño y **operación de redes**: conmutación, **enrutamiento**, **alta disponibilidad**, **VLANs/Trunking/EtherChannel**, **STP/RSTP**, **OSPF** y **BGP**, con prácticas y evaluación continua.
+
+**Lo que trabajé/aprendí**
+
+* **Diseño de red** y cableado estructurado.
+* **Switching L2/L3** y fundamentos de routing.
+* **STP/RSTP**: topología, cambios y optimización.
+* **VLANs**, enlaces troncales (**DTP**) y **LACP**.
+* **Routing**: tablas, estático, selección de rutas.
+* **OSPF**: áreas, LSA, default route, sumarización y optimización.
+* **BGP**: fundamentos y configuración básica.
+* Uso de simuladores y herramientas de monitorización.
+
+**Temario clave**
+Modelo de diseño · Switching/Router · STP/RSTP · VLAN/Trunk/EtherChannel · Routing básico · **OSPF** · **BGP**.
+
+**Referencias base**
+Cisco Press: **ENCOR 350-401** (Edgeworth et al.) · **CCNA 200-301** (Odom, Edgeworth).
+
+---
+
+## 201756 — Administración de Bases de Datos (2º cuatr.)
+
+**De qué va**
+Fundamentos avanzados de **SGBD** y su **administración**: catálogo, vistas materializadas, seguridad, **triggers**, **optimización** (índices, coste), **transacciones**, **concurrencia/recuperación**, **SQL avanzado** y **Oracle**.
+
+**Lo que trabajé/aprendí**
+
+* Arquitectura y características de **SGBD** modernos.
+* **Índices** y estructura física; optimización heurística y por **costes**.
+* **Transacciones**, **ACID**, control de concurrencia y **recuperación**.
+* **SQL avanzado** aplicado a casos reales.
+* **Oracle**: arquitectura y práctica con SQL.
+* Evaluación por **prácticas**, **trabajos** y **prueba mixta** (todas recuperables).
+
+**Temario clave**
+Catálogo/Vistas/Seguridad/Triggers · Optimización e indexación · Transacciones y concurrencia · SQL avanzado · Caso **Oracle**.
+
+**Referencias base**
+Elmasri & Navathe · Silberschatz/Korth/Sudarshan.
+
+---
+
+## 200212 — Administración de Sistemas Operativos (2º cuatr.)
+
+**De qué va**
+**Administración UNIX** (diversas ramas: System V, BSD, POSIX…): instalación/arranque, **discos y FS** (RAID, cifrado, **ZFS**), **usuarios/grupos** (PAM/LDAP), **red básica**, **paquetería**, **procesos**, **logs/cron/at** y **arranque de servicios**, con fuerte componente práctico.
+
+**Lo que trabajé/aprendí**
+
+* Rol del **sysadmin**, su/SUDO, comandos esenciales y variantes de **UNIX**.
+* **Boot/instalación**: particionado, bootloaders y coexistencia de sistemas.
+* **Dispositivos** y FS: módulos de kernel, organización, **LVM/volúmenes**, **RAID**, cifrado, **ZFS**.
+* **Gestión de usuarios** y **grupos**; **PAM** y **LDAP**.
+* **Red**: configuración, rutas, *inetd*, **tcpwrappers**.
+* **Procesos**: señales, prioridades, */proc*, trazas; **gestión de paquetes**.
+* **Automatización**: **shell scripting**, **logs**, **cron/at**, servicios e init.
+
+**Temario clave**
+Intro administración · Boot/instalación · Discos/FS (RAID/ZFS/cifrado) · Usuarios/PAM/LDAP · Red básica · Procesos/paquetes · Automatización (scripts, logs, cron, servicios).
+
+**Referencias base**
+Nemeth et al. (*UNIX & Linux System Administration Handbook*) · Frisch (*Essential SysAdmin*) · Solaris Admin Guides · FreeBSD Handbook.
+
+---
+
+# 4º Curso — Mención en Tecnologías de la Información (2025/26)
+
+> Optativas de mención – 6 ECTS cada una.
+
+---
+
+## 201778 — Servizos Multimedia (1º cuatr.)
+
+**De qué va**
+Servicios avanzados de Internet con foco en **multimedia sobre IP**: **VoIP**, representación/compresión de **imagen y vídeo**, y **streaming** (audio/vídeo). Protocolos de **señalización** y **transporte** y práctica con **Asterisk**.
+
+**Lo que trabajé/aprendí**
+
+* Fundamentos de sistemas multimedia y **streaming**.
+* **VoIP**: codecs, eco, **QoS**, hardware/software, **Asterisk** (instalación, configuración, dialplan).
+* Compresión: **JPEG**, familias **H.26x**/**MPEG**, métricas de calidad.
+* Protocolos: **H.323**, **SIP/SDP/IAX2**, **RTP/RTCP**.
+* Prácticas individuales y trabajos aplicados.
+
+**Temario clave**
+Introducción · VoIP (codecs, QoS, Asterisk) · Compresión imagen/vídeo (JPEG, H.264/MPEG) · Protocolos de señalización · **RTP/RTCP**.
+
+**Referencias base**
+Flanagan (*VoIP and Unified Communications*) · Meggelen et al. (*Asterisk: The Definitive Guide*) · Perkins (*RTP*) · Richardson (*H.264*) · Simpson (*Video over IP*) · Holton (*DSP*).
+
+---
+
+## 201776 — Seguridade nos Sistemas Informáticos (1º cuatr.)
+
+**De qué va**
+Fundamentos y práctica de **seguridad de la información**: **criptografía** (simétrica/asimétrica, hash, firma), **PKI/certificados**, **correo seguro**, **normativa ISO/IEC 27000 y SGSI**, **malware**, **análisis forense** y estudios de casos.
+
+**Lo que trabajé/aprendí**
+
+* Cifradores de bloque/flujo, **clave pública**, **firma digital**, **esteganografía**, **tarjetas inteligentes**.
+* **PGP/GPG**, **S/MIME** para correo.
+* **ISO/IEC 27000** e implantación de un **SGSI**.
+* Tipologías de **malware** y respuesta.
+* **Forense**: fases, herramientas HW/SW.
+* Trabajo tutelado y prácticas con defensa; examen teórico.
+
+**Temario clave**
+Criptología (hash/firma/PKI) · Correo seguro (PGP/S/MIME) · **ISO/IEC 27000 / SGSI** · Malware · **Análisis forense** · Casos reales.
+
+**Referencias base**
+Stallings (*Cryptography and Network Security*, 8ª) · Schneier (*Applied Cryptography*).
