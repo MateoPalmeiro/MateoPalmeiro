@@ -108,7 +108,7 @@ Mención TI: administración Linux/UNIX (LVM, RAID, ZFS, PAM, LDAP), redes (Cisc
 <div align="center">
 
 <!-- GUESTBOOK:START -->
-_Nadie ha firmado todavía. ¡Sé el primero!_
+<a href="https://github.com/MateoPalmeiro"><img src="https://avatars.githubusercontent.com/u/183812762?v=4" width="50" height="50" alt="@MateoPalmeiro" title="@MateoPalmeiro" style="border-radius:50%" /></a>
 <!-- GUESTBOOK:END -->
 
 </div>
