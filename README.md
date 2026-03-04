@@ -2,14 +2,14 @@
 
 # Mateo Palmeiro
 
-<img src="https://komarev.com/ghpvc/?username=MateoPalmeiro&color=0e75b6&style=for-the-badge&label=VISITAS" alt="Visitas al perfil" />
+<img src="https://komarev.com/ghpvc/?username=MateoPalmeiro&color=39ff14&style=for-the-badge&label=VISITAS" alt="Visitas al perfil" />
 &nbsp;
 <a href="https://github.com/MateoPalmeiro?tab=stars">
-  <img alt="total stars" title="Stars en GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/MateoPalmeiro"/>
+  <img alt="total stars" title="Stars en GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=39ff14&labelColor=1a7a00&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/MateoPalmeiro"/>
 </a>
 &nbsp;
 <a href="https://github.com/MateoPalmeiro?tab=followers">
-  <img alt="followers" title="Sígueme en GitHub" src="https://custom-icon-badges.demolab.com/github/followers/MateoPalmeiro?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Seguidores&logoColor=white"/>
+  <img alt="followers" title="Sígueme en GitHub" src="https://custom-icon-badges.demolab.com/github/followers/MateoPalmeiro?color=39ff14&labelColor=1a7a00&style=for-the-badge&logo=person-add&label=Seguidores&logoColor=white"/>
 </a>
 
 </div>
@@ -30,11 +30,11 @@ Fuera de la carrera llevo tiempo administrando mi propio homeserver, aprendiendo
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats1-pi.vercel.app/api?username=MateoPalmeiro&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats1-pi.vercel.app/api?username=MateoPalmeiro&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&border_radius=8" alt="GitHub Stats" />
 &nbsp;
-<img height="170" src="https://github-readme-stats1-pi.vercel.app/api/top-langs/?username=MateoPalmeiro&layout=compact&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
+<img height="170" src="https://github-readme-stats1-pi.vercel.app/api/top-langs/?username=MateoPalmeiro&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=39ff14&text_color=39ff14&border_radius=8" alt="Lenguajes más usados" />
 
-<img src="https://streak-stats.demolab.com?user=MateoPalmeiro&hide_border=true" alt="Racha de contribuciones" />
+<img src="https://streak-stats.demolab.com?user=MateoPalmeiro&hide_border=true&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideLabels=39ff14&dates=39ff14&currStreakNum=ffffff&sideNums=ffffff&border_radius=8" alt="Racha de contribuciones" />
 
 </div>
 
@@ -44,9 +44,9 @@ Fuera de la carrera llevo tiempo administrando mi propio homeserver, aprendiendo
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MateoPalmeiro&theme=onedark&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest" alt="Trofeos fila 1" />
+<img src="https://github-profile-trophy.vercel.app/?username=MateoPalmeiro&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest" alt="Trofeos fila 1" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=MateoPalmeiro&theme=onedark&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars" alt="Trofeos fila 2" />
+<img src="https://github-profile-trophy.vercel.app/?username=MateoPalmeiro&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars" alt="Trofeos fila 2" />
 
 </div>
 
@@ -54,7 +54,7 @@ Fuera de la carrera llevo tiempo administrando mi propio homeserver, aprendiendo
 
 ## Actividad
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MateoPalmeiro&theme=react-dark&hide_border=true&area=true" width="100%" alt="Gráfico de actividad" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MateoPalmeiro&bg_color=0d1117&color=39ff14&line=39ff14&point=39ff14&area=true&area_color=39ff14&hide_border=true" width="100%" alt="Gráfico de actividad" />
 
 ---
 
