@@ -44,9 +44,9 @@ Fuera de la carrera llevo tiempo administrando mi propio homeserver, aprendiendo
 
 <div align="center">
 
-<img src="https://github-profile-trophy1-six.vercel.app/?username=MateoPalmeiro&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage%2CCommits%2CFollowers%2CPullRequest" alt="Trofeos fila 1" />
+<img src="https://github-profile-trophy1-six.vercel.app/?username=MateoPalmeiro&theme=matrix&no-bg=true&no-frame=true&row=1&column=5&title=MultiLanguage%2CCommits%2CFollowers%2CPullRequest%2CReviews" alt="Trofeos fila 1" />
 
-<img src="https://github-profile-trophy1-six.vercel.app/?username=MateoPalmeiro&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories%2CIssues%2COrganizations%2CStars" alt="Trofeos fila 2" />
+<img src="https://github-profile-trophy1-six.vercel.app/?username=MateoPalmeiro&theme=matrix&no-bg=true&no-frame=true&row=1&column=5&title=Repositories%2CIssues%2COrganizations%2CStars%2CExperience" alt="Trofeos fila 2" />
 
 </div>
 
