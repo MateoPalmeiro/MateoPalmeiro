@@ -36,7 +36,7 @@ En 2026 volvimos con [G8KEEPER](https://github.com/HugoVilr/HACKUD_2026), un ges
 </a>
 </div>
 
-Fuera de los hackathones llevo tiempo administrando mi propio homeserver, aprendiendo por mi propia cuenta, y haciendo CTFs, comptiendo y quedando 4º en el CTF organizado por el GPUL en el HACKUDC 2025.
+Fuera de los hackathones llevo tiempo administrando mi propio homeserver, aprendiendo por mi propia cuenta, y haciendo CTFs, quedando 4º en CTF del HACKUDC 2025.
 
 ---
 
@@ -98,6 +98,20 @@ Mención TI: administración Linux/UNIX (LVM, RAID, ZFS, PAM, LDAP), redes (Cisc
 **Sistemas y redes** — Linux/UNIX en producción, Proxmox (VMs + LXC), homeserver, VLANs, trunking, EtherChannel, STP/RSTP, OSPF, BGP, IPv4/IPv6.
 
 **Desarrollo y automatización** — scripting Bash/Python, APIs REST, Django, Docker, OAuth, SQL avanzado, servicios distribuidos (Java, Thrift, JDBC).
+
+---
+
+## Libro de visitas
+
+¿Pasaste por aquí? [Deja tu firma](https://github.com/MateoPalmeiro/MateoPalmeiro/issues/1) comentando en el issue y tu avatar aparecerá aquí automáticamente.
+
+<div align="center">
+
+<!-- GUESTBOOK:START -->
+_Nadie ha firmado todavía. ¡Sé el primero!_
+<!-- GUESTBOOK:END -->
+
+</div>
 
 ---
 
