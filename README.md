@@ -108,7 +108,12 @@ Mención TI: administración Linux/UNIX (LVM, RAID, ZFS, PAM, LDAP), redes (Cisc
 <div align="center">
 
 <!-- GUESTBOOK:START -->
-<a href="https://github.com/MateoPalmeiro"><img src="https://avatars.githubusercontent.com/u/183812762?v=4" width="50" height="50" alt="@MateoPalmeiro" title="@MateoPalmeiro" style="border-radius:50%" /></a>
+<table>
+<tr>
+  <td align="center" width="80"><a href="https://github.com/MateoPalmeiro"><img src="https://avatars.githubusercontent.com/u/183812762?v=4" width="45" height="45" alt="@MateoPalmeiro" style="border-radius:50%" /></a></td>
+  <td><strong><a href="https://github.com/MateoPalmeiro">@MateoPalmeiro</a></strong> <sub>4 mar 2026</sub><br/>Pole</td>
+</tr>
+</table>
 <!-- GUESTBOOK:END -->
 
 </div>
