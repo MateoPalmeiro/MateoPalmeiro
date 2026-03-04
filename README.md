@@ -36,7 +36,7 @@ En 2026 volvimos con [G8KEEPER](https://github.com/HugoVilr/HACKUD_2026), un ges
 </a>
 </div>
 
-Fuera de los hackathones llevo tiempo administrando mi propio homeserver, aprendiendo por mi propia cuenta, y haciendo CTFs, quedando 4º en CTF del HACKUDC 2025.
+Fuera de los hackathones llevo tiempo administrando mi propio homeserver, aprendiendo por mi propia cuenta, y haciendo CTFs, comptiendo y quedando 4º en el CTF organizado por el GPUL en el HACKUDC 2025.
 
 ---
 
