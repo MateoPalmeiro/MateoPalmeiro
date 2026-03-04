@@ -38,21 +38,27 @@ jobs:
               if (comments.length < per_page) break;
               page++;
             }
-            // Deduplicate by user (keep latest comment)
-            const seen = new Map();
-            for (const c of allComments) {
-              seen.set(c.user.login, c);
-            }
-            const unique = [...seen.values()].reverse().slice(0, 30);
+            // Show all comments (newest first), limit 30
+            const entries = allComments.reverse().slice(0, 30);
             let md = '';
-            for (const c of unique) {
-              const avatar = c.user.avatar_url;
-              const login = c.user.login;
-              const profile = c.user.html_url;
-              md += `<a href="${profile}"><img src="${avatar}" width="50" height="50" alt="@${login}" title="@${login}" style="border-radius:50%" /></a>\n`;
-            }
-            if (unique.length === 0) {
+            if (entries.length === 0) {
               md = '_Nadie ha firmado todavía. ¡Sé el primero!_\n';
+            } else {
+              md += '<table>\n';
+              for (const c of entries) {
+                const avatar = c.user.avatar_url;
+                const login = c.user.login;
+                const profile = c.user.html_url;
+                // Sanitize message: remove HTML tags, trim, limit length
+                let msg = c.body.replace(/<[^>]*>/g, '').trim();
+                if (msg.length > 150) msg = msg.substring(0, 150) + '…';
+                const date = new Date(c.created_at).toLocaleDateString('es-ES', { day: 'numeric', month: 'short', year: 'numeric' });
+                md += `<tr>\n`;
+                md += `  <td align="center" width="80"><a href="${profile}"><img src="${avatar}" width="45" height="45" alt="@${login}" style="border-radius:50%" /></a></td>\n`;
+                md += `  <td><strong><a href="${profile}">@${login}</a></strong> <sub>${date}</sub><br/>${msg}</td>\n`;
+                md += `</tr>\n`;
+              }
+              md += '</table>\n';
             }
             const fs = require('fs');
             let readme = fs.readFileSync('README.md', 'utf8');

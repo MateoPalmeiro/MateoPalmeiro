@@ -103,7 +103,7 @@ Mención TI: administración Linux/UNIX (LVM, RAID, ZFS, PAM, LDAP), redes (Cisc
 
 ## Libro de visitas
 
-¿Pasaste por aquí? [Deja tu firma](https://github.com/MateoPalmeiro/MateoPalmeiro/issues/1) comentando en el issue y tu avatar aparecerá aquí automáticamente.
+¿Pasaste por aquí? [Deja tu firma](https://github.com/MateoPalmeiro/MateoPalmeiro/issues/1) comentando en el issue y aparecerás aquí automáticamente.
 
 <div align="center">
 
