@@ -30,9 +30,9 @@ Fuera de la carrera llevo tiempo administrando mi propio homeserver, aprendiendo
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MateoPalmeiro&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats1-pi.vercel.app/api?username=MateoPalmeiro&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoPalmeiro&layout=compact&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
+<img height="170" src="https://github-readme-stats1-pi.vercel.app/api/top-langs/?username=MateoPalmeiro&layout=compact&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
 
 <img src="https://streak-stats.demolab.com?user=MateoPalmeiro&hide_border=true" alt="Racha de contribuciones" />
 
