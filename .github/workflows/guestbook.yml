@@ -3,11 +3,14 @@ name: Update Guestbook
 on:
   issue_comment:
     types: [created]
+  workflow_dispatch:
 
 jobs:
   update-guestbook:
     runs-on: ubuntu-latest
-    if: github.event.issue.number == 1 && !github.event.comment.user.bot
+    if: >
+      github.event_name == 'workflow_dispatch' ||
+      (github.event.issue.number == 1 && !github.event.comment.user.bot)
     permissions:
       contents: write
 
