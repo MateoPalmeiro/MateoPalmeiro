@@ -72,8 +72,8 @@ Fuera de la carrera llevo tiempo administrando mi propio homeserver, aprendiendo
 ## Spotify
 
 <div align="center">
-<a href="https://open.spotify.com">
-  <img src="https://spotify-github-profile.kittinan.dev/api/view?uid=msue5apvfg6gwpxxws70dql9k&cover_image=true&theme=default&show_offline=false&background_color=0d1117" alt="Spotify" width="300" />
+<a href="https://btk.pythonanywhere.com/link">
+  <img src="https://btk.pythonanywhere.com?spin=true&theme=dark&eq_color=39FF14" alt="Spotify Now Playing" />
 </a>
 </div>
 
