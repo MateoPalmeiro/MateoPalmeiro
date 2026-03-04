@@ -71,14 +71,9 @@ Fuera de la carrera llevo tiempo administrando mi propio homeserver, aprendiendo
 
 ## Spotify
 
-<!-- Para activar esto:
-     1. Ve a https://spotify-github-profile.kittinan.dev/link?user=TU_USERNAME_SPOTIFY
-     2. Autoriza la app con tu cuenta de Spotify
-     3. Copia el uid que te da y reemplaza PON_TU_UID_SPOTIFY abajo -->
-
 <div align="center">
 <a href="https://open.spotify.com">
-  <img src="https://spotify-github-profile.kittinan.dev/api/view?uid=PON_TU_UID_SPOTIFY&cover_image=true&theme=default&show_offline=false&background_color=121212" alt="Spotify" width="300" />
+  <img src="https://spotify-github-profile.kittinan.dev/api/view?uid=msue5apvfg6gwpxxws70dql9k&cover_image=true&theme=default&show_offline=false&background_color=0d1117" alt="Spotify" width="300" />
 </a>
 </div>
 
