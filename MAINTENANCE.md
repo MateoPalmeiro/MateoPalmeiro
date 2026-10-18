@@ -12,7 +12,7 @@
 | Trofeos | Despliegue `github-profile-trophy1-six.vercel.app` | Varias capas de caché: datos, servidor, CDN y proxy de GitHub |
 | Racha | `streak-stats.demolab.com` | Servicio externo |
 | Visitas, estrellas y seguidores | Komarev y Custom Icon Badges | Servicios externos |
-| Spotify | `btk.pythonanywhere.com` | Pendiente de reactivar; bloque conservado en comentario HTML |
+| Spotify | `btk.pythonanywhere.com` | Operativo; autorizaci?n renovada el 18 de octubre de 2026 |
 
 Los horarios de Actions no garantizan una ejecución puntual. Las imágenes también pueden permanecer en la caché del proxy de GitHub. Los commits totales, las contribuciones y los puntos de trofeos usan criterios distintos y no tienen por qué coincidir. El parámetro `count_private` no se procesa en la versión actual de las tarjetas; la cobertura depende del token del servicio y de las consultas que implementa.
 
@@ -30,8 +30,8 @@ El gráfico muestra 31 días en UTC y los datos que GitHub permite consultar con
 
 1. Accede a la cuenta que administra `btk.pythonanywhere.com` y abre **Web**. Comprueba si la aplicación está desactivada o ha caducado; reactívala si procede y recárgala.
 2. Si no arranca, revisa sus logs y la configuración de la aplicación. El código de este servicio no se encontró entre los repositorios de la cuenta revisada.
-3. Comprueba que `https://btk.pythonanywhere.com?spin=true&theme=dark&eq_color=39FF14` devuelve una imagen válida por HTTPS y que `/link` redirige al destino esperado. Si falla la autorización de Spotify, renueva esa autorización desde la aplicación sin publicar credenciales.
-4. Cuando funcione, elimina los delimitadores del comentario HTML que rodea el bloque Spotify en `README.md`.
+3. Comprueba que `https://btk.pythonanywhere.com?spin=true&theme=dark&eq_color=39FF14` devuelve una imagen válida por HTTPS y que `/link` muestra el reproductor de Spotify. Si falla la autorización de Spotify, renueva esa autorización desde la aplicación sin publicar credenciales.
+4. El bloque Spotify ya est? visible en `README.md`. Mant?n activa la web renovando su plazo en PythonAnywhere; el plazo mostrado tras la reactivaci?n termina el 18 de noviembre de 2026.
 
 ## Si las tarjetas siguen desactualizadas
 

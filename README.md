@@ -62,13 +62,11 @@ Fuera de los hackathones llevo tiempo administrando mi propio homeserver, aprend
 
 ---
 
-<!-- Spotify: restore this block after reactivating the PythonAnywhere app.
 <div align="center">
 <a href="https://btk.pythonanywhere.com/link">
   <img src="https://btk.pythonanywhere.com?spin=true&theme=dark&eq_color=39FF14" alt="Spotify Now Playing" />
 </a>
 </div>
--->
 
 ---
 
