@@ -2,17 +2,22 @@ name: Update Guestbook
 
 on:
   issue_comment:
-    types: [created]
+    types: [created, edited, deleted]
   workflow_dispatch:
+
+concurrency:
+  group: guestbook
+  cancel-in-progress: false
 
 jobs:
   update-guestbook:
     runs-on: ubuntu-latest
     if: >
       github.event_name == 'workflow_dispatch' ||
-      (github.event.issue.number == 1 && !github.event.comment.user.bot)
+      github.event.issue.number == 1
     permissions:
       contents: write
+      issues: read
 
     steps:
       - name: Checkout
@@ -39,7 +44,7 @@ jobs:
               page++;
             }
             // Show all comments (newest first), limit 30
-            const entries = allComments.reverse().slice(0, 30);
+            const entries = allComments.filter(c => c.user?.type !== 'Bot').reverse().slice(0, 30);
             let md = '';
             if (entries.length === 0) {
               md = '_Nadie ha firmado todavía. ¡Sé el primero!_\n';
@@ -52,6 +57,7 @@ jobs:
                 // Sanitize message: remove HTML tags, trim, limit length
                 let msg = c.body.replace(/<[^>]*>/g, '').trim();
                 if (msg.length > 150) msg = msg.substring(0, 150) + '…';
+                msg = msg.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
                 const date = new Date(c.created_at).toLocaleDateString('es-ES', { day: 'numeric', month: 'short', year: 'numeric' });
                 md += `<tr>\n`;
                 md += `  <td align="center" width="80"><a href="${profile}"><img src="${avatar}" width="45" height="45" alt="@${login}" style="border-radius:50%" /></a></td>\n`;
@@ -65,7 +71,8 @@ jobs:
             const start = '<!-- GUESTBOOK:START -->';
             const end = '<!-- GUESTBOOK:END -->';
             const regex = new RegExp(`${start}[\\s\\S]*?${end}`);
-            readme = readme.replace(regex, `${start}\n${md}${end}`);
+            if (!regex.test(readme)) throw new Error('Guestbook markers missing');
+            readme = readme.replace(regex, () => `${start}\n${md}${end}`);
             fs.writeFileSync('README.md', readme);
 
       - name: Commit changes
@@ -73,4 +80,4 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --staged --quiet || (git commit -m "docs: update guestbook" && git push)
+          git diff --staged --quiet || (git commit -m "docs: update guestbook" && git pull --rebase && git push)

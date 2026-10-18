@@ -24,7 +24,7 @@ He participado en **HackUDC** los dos últimos años en el reto de Gradiant. En 
 
 <div align="center">
 <a href="https://github.com/HugoVilr/HackUDC-Devs-Inc">
-  <img src="https://github-readme-stats1-pi.vercel.app/api/pin/?username=HugoVilr&repo=HackUDC-Devs-Inc&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&hide_border=true&border_radius=8" alt="Repo HackUDC 2025 - Devs Inc." />
+  <img src="https://github-readme-stats1-pi.vercel.app/api/pin/?profile_version=2&username=HugoVilr&repo=HackUDC-Devs-Inc&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&hide_border=true&border_radius=8" alt="Repo HackUDC 2025 - Devs Inc." />
 </a>
 </div>
 
@@ -32,7 +32,7 @@ En 2026 volvimos con [G8KEEPER](https://github.com/HugoVilr/HACKUD_2026), un ges
 
 <div align="center">
 <a href="https://github.com/HugoVilr/HACKUD_2026">
-  <img src="https://github-readme-stats1-pi.vercel.app/api/pin/?username=HugoVilr&repo=HACKUD_2026&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&hide_border=true&border_radius=8" alt="Repo HackUDC 2026 - G8KEEPER" />
+  <img src="https://github-readme-stats1-pi.vercel.app/api/pin/?profile_version=2&username=HugoVilr&repo=HACKUD_2026&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&hide_border=true&border_radius=8" alt="Repo HackUDC 2026 - G8KEEPER" />
 </a>
 </div>
 
@@ -42,11 +42,11 @@ Fuera de los hackathones llevo tiempo administrando mi propio homeserver, aprend
 
 <div align="center">
 
-<img width="500" src="https://github-readme-stats1-pi.vercel.app/api?username=MateoPalmeiro&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&border_radius=8" alt="GitHub Stats" />
+<img width="500" src="https://github-readme-stats1-pi.vercel.app/api?profile_version=2&username=MateoPalmeiro&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&border_radius=8" alt="GitHub Stats" />
 
 <br/>
 
-<img height="170" src="https://github-readme-stats1-pi.vercel.app/api/top-langs/?username=MateoPalmeiro&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=39ff14&text_color=39ff14&border_radius=8" alt="Lenguajes más usados" />
+<img height="170" src="https://github-readme-stats1-pi.vercel.app/api/top-langs/?profile_version=2&username=MateoPalmeiro&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=39ff14&text_color=39ff14&border_radius=8" alt="Lenguajes más usados" />
 &nbsp;
 <img height="170" src="https://streak-stats.demolab.com?user=MateoPalmeiro&hide_border=true&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideLabels=39ff14&dates=39ff14&currStreakNum=ffffff&sideNums=ffffff&border_radius=8" alt="Racha de contribuciones" />
 
@@ -58,15 +58,17 @@ Fuera de los hackathones llevo tiempo administrando mi propio homeserver, aprend
 
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MateoPalmeiro&bg_color=0d1117&color=39ff14&line=39ff14&point=39ff14&area=true&area_color=39ff14&hide_border=true" width="100%" alt="Gráfico de actividad" />
+<img src="https://raw.githubusercontent.com/MateoPalmeiro/MateoPalmeiro/main/activity.svg" width="100%" alt="Gráfico de actividad" />
 
 ---
 
+<!-- Spotify: restore this block after reactivating the PythonAnywhere app.
 <div align="center">
 <a href="https://btk.pythonanywhere.com/link">
   <img src="https://btk.pythonanywhere.com?spin=true&theme=dark&eq_color=39FF14" alt="Spotify Now Playing" />
 </a>
 </div>
+-->
 
 ---
 
