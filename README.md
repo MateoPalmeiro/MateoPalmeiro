@@ -110,6 +110,10 @@ Mención TI: administración Linux/UNIX (LVM, RAID, ZFS, PAM, LDAP), redes (Cisc
 <!-- GUESTBOOK:START -->
 <table>
 <tr>
+  <td align="center" width="80"><a href="https://github.com/xcotelo"><img src="https://avatars.githubusercontent.com/u/159065770?v=4" width="45" height="45" alt="@xcotelo" style="border-radius:50%" /></a></td>
+  <td><strong><a href="https://github.com/xcotelo">@xcotelo</a></strong> <sub>18 oct 2026</sub><br/>Un crack. Traballador dos de antes que xa non quedan, dos que non anda co Netflix. Vive para traballar</td>
+</tr>
+<tr>
   <td align="center" width="80"><a href="https://github.com/MateoPalmeiro"><img src="https://avatars.githubusercontent.com/u/183812762?v=4" width="45" height="45" alt="@MateoPalmeiro" style="border-radius:50%" /></a></td>
   <td><strong><a href="https://github.com/MateoPalmeiro">@MateoPalmeiro</a></strong> <sub>4 mar 2026</sub><br/>Pole</td>
 </tr>
