@@ -2,7 +2,7 @@
 
 # Mateo Palmeiro
 
-<img src="https://komarev.com/ghpvc/?username=MateoPalmeiro&color=0d1117&style=for-the-badge&label=VISITAS&labelColor=1a7a00" alt="Visitas al perfil" />
+<img src="https://hits.sh/github.com/MateoPalmeiro.svg?style=for-the-badge&label=VISITAS&color=0d1117&labelColor=1a7a00&extraCount=130" alt="Visitas al perfil" />
 &nbsp;
 <a href="https://github.com/MateoPalmeiro?tab=stars">
   <img alt="total stars" title="Stars en GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=0d1117&labelColor=1a7a00&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/MateoPalmeiro&logoColor=39ff14"/>

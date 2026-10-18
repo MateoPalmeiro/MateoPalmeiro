@@ -11,7 +11,7 @@
 | Estadísticas, lenguajes y repos destacados | Despliegue `github-readme-stats1-pi.vercel.app` | Caché por defecto de seis horas tras desplegar la corrección |
 | Trofeos | Despliegue `github-profile-trophy1-six.vercel.app` | Varias capas de caché: datos, servidor, CDN y proxy de GitHub |
 | Racha | `streak-stats.demolab.com` | Servicio externo |
-| Visitas, estrellas y seguidores | Komarev y Custom Icon Badges | Servicios externos |
+| Visitas, estrellas y seguidores | Hits.sh y Custom Icon Badges | Servicios externos |
 | Spotify | `btk.pythonanywhere.com` | Operativo; autorizaci?n renovada el 18 de octubre de 2026 |
 
 Los horarios de Actions no garantizan una ejecución puntual. Las imágenes también pueden permanecer en la caché del proxy de GitHub. Los commits totales, las contribuciones y los puntos de trofeos usan criterios distintos y no tienen por qué coincidir. El parámetro `count_private` no se procesa en la versión actual de las tarjetas; la cobertura depende del token del servicio y de las consultas que implementa.
@@ -38,3 +38,7 @@ El gráfico muestra 31 días en UTC y los datos que GitHub permite consultar con
 En Vercel, comprueba que el dominio de producción apunta al último commit del repositorio del servicio. Revisa `CACHE_SECONDS`: elimínala para usar los valores del código o configúrala como `21600`. Redespliega producción si el despliegue automático no se realiza. No publiques valores de `PAT_1`, `GITHUB_TOKEN1` ni otros secretos.
 
 Para regenerar el gráfico, la serpiente, las métricas o el libro de visitas, abre **Actions**, selecciona el workflow correspondiente y utiliza **Run workflow**. Ante un fallo, consulta el log antes de cambiar tokens.
+
+## Contador de visitas
+
+El 18 de octubre de 2026, Komarev respond?a directamente pero GitHub Camo rechazaba la imagen con HTTP 404 (`Cannot proxy the given URL`). Se sustituy? por Hits.sh, comprobado a trav?s de Camo. El par?metro `extraCount=130` conserva como base el ?ltimo total mostrado por Komarev; no transfiere el historial. El contador mide cargas de imagen, incluidas las verificaciones, no visitantes ?nicos.
